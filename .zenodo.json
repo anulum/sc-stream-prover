@@ -1,0 +1,18 @@
+{
+  "creators": [
+    {
+      "affiliation": "ANULUM",
+      "name": "Šotek, Miroslav",
+      "orcid": "0009-0009-3560-0851"
+    }
+  ],
+  "description": "Architecture-only repository validation tooling and design for source-bound stochastic arithmetic analysis. No installed build-evidence package, vendor execution or qualified bitstream or physical result is released.",
+  "keywords": [
+    "FPGA",
+    "build provenance",
+    "reproducibility"
+  ],
+  "license": "AGPL-3.0-or-later",
+  "title": "SC Stream Prover",
+  "upload_type": "software"
+}
