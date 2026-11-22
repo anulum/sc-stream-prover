@@ -2,11 +2,11 @@
   "capabilities": [],
   "claims": [],
   "evidence_maturity": "architecture_only",
-  "lifecycle": "local_scaffold",
+  "lifecycle": "public_repository",
   "qualified_owned_schema_ids": [],
   "repository_name": "SC-STREAM-PROVER",
   "source_metadata": {
     "path": "repository-domain.json",
-    "sha256": "fe81e7c3d2d3c650635fb2cb0bf340a7cca3551ce9dc5a3bbf08bf9d819c3ab5"
+    "sha256": "a8e3eac49e50588177572a133d1be6e1e3f111ba8acd35551a567b7d98d830ac"
   }
 }

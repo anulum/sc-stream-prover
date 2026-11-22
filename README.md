@@ -12,6 +12,8 @@ SC-STREAM-PROVER — repository foundation
 
 SC Stream Prover is being built to compare stochastic arithmetic observations with explicitly scoped numerical models. This checkout contains repository validation tooling and documentation. Full foundation qualification is in progress. There is no installed arithmetic-analysis package, circuit runner, public arithmetic-analysis command or qualified numerical report.
 
+SC Stream Prover is part of the **SC Neuromorphic Computing Systems** group (SC-NEUROMORPHIC-COMPUTING-SYSTEMS). The [group and project map](https://github.com/anulum/sc-neurocore/blob/main/docs/ecosystem.md) shows the whole programme and where this repository sits in it.
+
 ## Boundary
 
 This project owns planned arithmetic experiments, independent circuit oracles, finite error analysis, applicable bound and statistical admission, tested-length selection and its own report. SC-NeuroCore owns the circuit implementations; Randomness Witness owns source batteries and certificates; Loop Timing Witness owns capture and timebase. Evidence Manifest Toolkit supplies shared evidence operations and Experiment Ledger supplies generic storage.
